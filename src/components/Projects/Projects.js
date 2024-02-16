@@ -21,28 +21,28 @@ function Projects() {
           Here are a few projects I've worked on recently.
         </p>
         <Row style={{ justifyContent: "center", paddingBottom: "100px" }}>
-          <Col md={4} className="project-card">
-            <ProjectCard
+          {/* <Col md={4} className="project-card"> */}
+          {/* <ProjectCard
               imgPath={chatify}
               isBlog={false}
               title="Monterrey Security"
               description="A Event Oraganiation Website. Build with WordPress,With some customizations css and Javascript."
               ghLink="https://github.com/Prawinr17/Monterrey-Security"
               demoLink="https://www.monterreysecurity.com/"
-            />
-          </Col>
+            /> */}
+          {/* </Col> */}
 
-          <Col md={4} className="project-card">
-            <ProjectCard
+          {/* <Col md={4} className="project-card"> */}
+          {/* <ProjectCard
               imgPath={bitsOfCode}
               isBlog={false}
               title="Forsa"
               description="People managment system oraganized by Egypt goverment Funded by World Bank. And developed by React.js,Tailwind Css,Asp.Net Core and Postgresql With Microservices."
               ghLink="https://github.com/Prawinr17/FORSA"
               demoLink="#"
-            />
-          </Col>
-
+            /> */}
+          {/* </Col> */}
+          <h1>No Reacnt Work</h1>
           {/* <Col md={4} className="project-card">
             <ProjectCard
               imgPath={editor}
