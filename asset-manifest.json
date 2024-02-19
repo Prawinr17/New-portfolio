@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/prawin-portfolio/static/css/main.0ebb156b.css",
-    "main.js": "/prawin-portfolio/static/js/main.f985ce07.js",
-    "static/js/415.4d6acbeb.chunk.js": "/prawin-portfolio/static/js/415.4d6acbeb.chunk.js",
-    "static/js/787.1ed0c42c.chunk.js": "/prawin-portfolio/static/js/787.1ed0c42c.chunk.js",
-    "static/media/Prawin-resume.pdf": "/prawin-portfolio/static/media/Prawin-resume.fced1a708fbeac045e45.pdf",
-    "static/media/Moneterrey.png": "/prawin-portfolio/static/media/Moneterrey.abbb95a9c70657192c72.png",
-    "static/media/leaf.png": "/prawin-portfolio/static/media/leaf.ff2616f664c8c0ceab91.png",
-    "static/media/Forsa.png": "/prawin-portfolio/static/media/Forsa.730ca00807178c3c10d2.png",
-    "static/media/emotion.png": "/prawin-portfolio/static/media/emotion.eabfc16e7a146ab15778.png",
-    "static/media/suicide.png": "/prawin-portfolio/static/media/suicide.9c86cd7138a398c45fa5.png",
-    "static/media/codeEditor.png": "/prawin-portfolio/static/media/codeEditor.1b585492490c8c1cace9.png",
-    "static/media/home-main.svg": "/prawin-portfolio/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
-    "static/media/about.png": "/prawin-portfolio/static/media/about.aee0f771fbfc1e7b8fa8.png",
-    "static/media/home-bg.jpg": "/prawin-portfolio/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
-    "static/media/avatar.svg": "/prawin-portfolio/static/media/avatar.5852f40fbb38aa284829fa3fb7722225.svg",
-    "static/media/pre.svg": "/prawin-portfolio/static/media/pre.d4812f51c8c80976eaab.svg",
-    "index.html": "/prawin-portfolio/index.html",
-    "main.0ebb156b.css.map": "/prawin-portfolio/static/css/main.0ebb156b.css.map",
-    "main.f985ce07.js.map": "/prawin-portfolio/static/js/main.f985ce07.js.map",
-    "415.4d6acbeb.chunk.js.map": "/prawin-portfolio/static/js/415.4d6acbeb.chunk.js.map",
-    "787.1ed0c42c.chunk.js.map": "/prawin-portfolio/static/js/787.1ed0c42c.chunk.js.map"
+    "main.css": "/New-portfolio/static/css/main.4c1628f6.css",
+    "main.js": "/New-portfolio/static/js/main.9582bbc4.js",
+    "static/js/415.4d6acbeb.chunk.js": "/New-portfolio/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/New-portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/Prawin-resume.pdf": "/New-portfolio/static/media/Prawin-resume.fced1a708fbeac045e45.pdf",
+    "static/media/leaf.png": "/New-portfolio/static/media/leaf.ff2616f664c8c0ceab91.png",
+    "static/media/emotion.png": "/New-portfolio/static/media/emotion.eabfc16e7a146ab15778.png",
+    "static/media/suicide.png": "/New-portfolio/static/media/suicide.9c86cd7138a398c45fa5.png",
+    "static/media/codeEditor.png": "/New-portfolio/static/media/codeEditor.1b585492490c8c1cace9.png",
+    "static/media/home-main.svg": "/New-portfolio/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
+    "static/media/about.png": "/New-portfolio/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/home-bg.jpg": "/New-portfolio/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/Project.svg": "/New-portfolio/static/media/Project.4a3ba7b8eb32a0bbc0ff5413597b0d3f.svg",
+    "static/media/avatar.svg": "/New-portfolio/static/media/avatar.5852f40fbb38aa284829fa3fb7722225.svg",
+    "static/media/Project2.svg": "/New-portfolio/static/media/Project2.b3a51b0b2f3cd82b2893144510c9f984.svg",
+    "static/media/pre.svg": "/New-portfolio/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/New-portfolio/index.html",
+    "main.4c1628f6.css.map": "/New-portfolio/static/css/main.4c1628f6.css.map",
+    "main.9582bbc4.js.map": "/New-portfolio/static/js/main.9582bbc4.js.map",
+    "415.4d6acbeb.chunk.js.map": "/New-portfolio/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/New-portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0ebb156b.css",
-    "static/js/main.f985ce07.js"
+    "static/css/main.4c1628f6.css",
+    "static/js/main.9582bbc4.js"
   ]
 }
